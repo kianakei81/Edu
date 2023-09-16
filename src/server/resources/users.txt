@@ -1,0 +1,22 @@
+studentone 99100123 student fatemeh ahmadi 2581494587 09123456789 fateme.ahmadi@yahoo.com 16.87 omran amini 99 karshenasi on
+studenttwo 98100124 student ali borna 2589976884 09115478904 aborna@yahoo.com 15.73 physic sabet 98 arshad on
+studentthree 97100125 student sina raad 2587796682 09126630011 sraad@yahoo.com 17.96 riazi hanifi 97 doctora on
+studentfour 97120558 student parham abdi 2581494587 09225643312 pabdi@yahoo.com 14.68 physic kamyab 97 karshenasi on
+studentfive 98100258 student mehdi nejati 2581494587 09112566643 m_nejati@yahoo.com 18.78 omran jafari 98 karshenasi on
+studentsix 99100159 student edris shadfar 2581494587 09142130056 shadfar@yahoo.com 17.5 riazi heidari 99 karshenasi on
+studentseven 97156320 student javad salimi 2581494587 09821547732 salimij@yahoo.com 16.5 omran amini 97 karshenasi on
+studenteight 99100147 student shahed nemati 2581494587 09122589634 snemati@yahoo.com 19.65 riazi heidari 99 karshenasi on
+studentnine 99170353 student rahim varaste 2589976884 091200655578 rvrste@yahoo.com 18.2 physic omidi 99 arshad on
+ostadone 655665 ostad ahmad amini 2586639711 09123310025 a.amini@sharif.ir omran 24 ostadyar
+ostadtwo 755775 ostad zahra heidari 2596687418 09358756841 zheidari@sharif.ir riazi 13 daneshyar
+ostadthree 855885 ostad keyvan kamyab 2581463329 09154476932 kamyab@sharif.ir physic 47 ostadyar
+ostadfour 955995 moaven hamid askari 2596678843 09112335847 haskari@sharif.ir physic 16 daneshyar
+ostadfive 455445 raees mohamad fathi 2584563321 09123458798 m.fathi@sharif.ir riazi 39 ostadtamam
+ostadsix 355335 raees laleh hanifi 2584569863 09376985524 lhanifi@sharif.ir riazi 7 ostadtamam
+ostadseven 155115 ostad kave omidi 2574569255 09114221589 omidi@sharif.ir physic 13 ostadyar
+ostadeight 255225 ostad jalal jafari 2561496687 09336589971 jjafari@sharif.ir omran 50 ostadyar
+ostadnine 911991 ostad babak sabet 2581463326 09184420063 bsabet@sharif.ir physic 42 ostadyar
+ostadten 811881 moaven amir amiri 2587984421 09123360158 amiri@sharif.ir riazi 31 daneshyar
+ostadeleven 711771 moaven mehdi mahdavi 2985476682 09150012659 mahdavi@sharif.ir omran 22 daneshyar
+1 111111 admin
+2 222222 mohseni

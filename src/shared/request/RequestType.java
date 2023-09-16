@@ -1,0 +1,30 @@
+package shared.request;
+
+public enum RequestType {
+    Login,
+    LessonList,
+    FilterDaneshkadeRiazi,
+    FilterDaneshkadeCs,
+    FilterDaneshkadeOmran,
+    FilterDaneshkadeBargh,
+    FilterDaneshkadePhysics,
+    FilterVahedOne,
+    FilterVahedTwo,
+    FilterVahedThree,
+    FilterVahedFour,
+    FilterOstad,
+    Profile,
+    Barname,
+    ChangingEmail,
+    ChangingNumber,
+    ListEmtehanat,
+    ListOstad,
+    addLesson,
+    RiaziFilter,
+    BarghFilter,
+    CsFilter,
+    OmranFilter,
+    PhysicsFilter,
+    pishnahad,
+    MaarefFilter
+}
